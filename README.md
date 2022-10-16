@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Monkr3l
+- 👀 I’m interested in Android modding and game hacking
+- 🌱 I’m currently learning C++
